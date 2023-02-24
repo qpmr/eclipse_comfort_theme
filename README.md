@@ -8,4 +8,4 @@
 6. Click apply, if values in `Workbench Theme` don't change, just set them manually: HSL(205, 10, 7) 
 7. Restart Eclipse.
 
-![Screenshot](./images/example.png")
+![Screenshot](./images/example.png)
