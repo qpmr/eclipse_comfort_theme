@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="20000" name="Comfort Theme" modified="2023-02-24 09:26:00" author="Byckevich Ilya">
+	<!-- 44475a - grey        -  current line, selection -->
+	<!-- ffb86c - orange dark -  variables -->
+	<!-- 717aba - purple      -  data type -->
+	<!-- 777d7e - light grey  -  comment -->
+	<!-- fcc46c - orange light-  func name -->
+	<!-- 9cb1c3 - blue light  -  foreground -->
+	<!-- c97731 - orange dark -  keywords -->
+	<!-- 627348 - green dark  -  string -->
+	<!-- 9ba7b5 - grey        -  macros -->
+	<!-- 8aa4a7 - green grey  -  arguments -->
+	<!-- 2b2b2b - ideal grey  -  background -->
+    <searchResultIndication color="#44475a" /> <!-- grey selection -->
+    <filteredSearchResultIndication color="#44475a" /> <!-- grey selection -->
+    <occurrenceIndication color="#44475a" underline="true" /> <!-- grey selection -->
+    <writeOccurrenceIndication color="#44475a" underline="true" /> <!-- grey selection -->
+    <findScope color="#44475a" /> <!-- grey selection -->
+    <deletionIndication color="#ffb86c" /> <!-- orange dark -->
+    <sourceHoverBackground color="#717aba" /> <!-- purple -->
+    <singleLineComment color="#777d7e" italic="false" /> <!-- comment grey-->
+    <multiLineComment color="#777d7e" italic="false" /> <!-- comment grey-->
+    <commentTaskTag color="#777d7e" italic="false" underline="true" strikethrough="false" /> <!-- comment grey -->
+    <javadoc color="#777d7e" italic="false" /> <!-- comment grey -->
+    <javadocLink color="#717aba" italic="false" underline="true" strikethrough="false" /> <!-- purple -->
+    <javadocTag color="#717aba" italic="false" /> <!-- purple -->
+    <javadocKeyword color="#717aba" italic="false" /> <!-- purple -->
+    <class color="#717aba" bold="false" underline="false" strikethrough="false" /> <!-- purple -->
+    <interface color="#717aba" /> <!-- purple -->
+    <method color="#fcc46c" /> <!-- orange light-->
+    <methodDeclaration color="#fcc46c" /> <!-- orange light-->
+    <bracket color="#9cb1c3" /> <!-- foreground -->
+    <number color="#c97731" /> <!-- orange dark -->
+    <string color="#627348" /> <!-- dark green -->
+    <operator color="#717aba" /> <!-- purple -->
+    <keyword color="#c97731" bold="false" /> <!-- orange dark -->
+    <annotation color="#fcc46c" /> <!-- orange light-->
+    <staticMethod color="#fcc46c" /> <!-- orange light-->
+    <localVariable color="#9cb1c3" /> <!-- foreground -->
+    <localVariableDeclaration color="#c97731" /> <!-- orange dark -->
+    <field color="#9cb1c3" /> <!-- foreground -->
+    <staticField color="#9cb1c3" /> <!-- foreground -->
+    <staticFinalField color="#9ba7b5" /> <!-- MACROS grey -->
+    <deprecatedMember color="#ffb86c" underline="false" strikethrough="true" /> <!-- orange dark-->
+    <enum color="#9ba7b5" /> <!-- MACROS grey -->
+    <inheritedMethod color="#fcc46c" /> <!-- orange light-->
+    <abstractMethod color="#fcc46c" /> <!-- orange light-->
+    <parameterVariable color="#8aa4a7" /> <!-- arguments grey -->
+    <typeArgument color="#717aba" /> <!-- purple -->
+    <typeParameter color="#ffb86c" /> <!-- orange dark-->
+    <constant color="#9ba7b5" /> <!-- MACROS grey -->
+    <background color="#2b2b2b" /> <!-- background -->
+    <currentLine color="#44475a" /> <!-- grey selection -->
+    <foreground color="#9cb1c3" /> <!-- foreground -->
+    <lineNumber color="#44475a" /> <!-- grey selection -->
+    <selectionBackground color="#44475a" /> <!-- light grey -->
+    <selectionForeground color="#9cb1c3" /> <!-- foreground -->
+</colorTheme>
