@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <colorTheme id="20000" name="Comfort Theme" modified="2023-02-24 09:26:00" author="Byckevich Ilya">
-	<!-- 44475a - grey        -  current line, selection -->
+	<!-- 44475a - grey        -  current line -->
 	<!-- ffb86c - orange dark -  variables -->
 	<!-- 717aba - purple      -  data type -->
 	<!-- 777d7e - light grey  -  comment -->
@@ -11,6 +11,7 @@
 	<!-- 9ba7b5 - grey        -  macros -->
 	<!-- 8aa4a7 - green grey  -  arguments -->
 	<!-- 2b2b2b - ideal grey  -  background -->
+	<!-- 355975 - select blue -  selection -->
     <searchResultIndication color="#44475a" /> <!-- grey selection -->
     <filteredSearchResultIndication color="#44475a" /> <!-- grey selection -->
     <occurrenceIndication color="#44475a" underline="true" /> <!-- grey selection -->
@@ -53,6 +54,6 @@
     <currentLine color="#44475a" /> <!-- grey selection -->
     <foreground color="#9cb1c3" /> <!-- foreground -->
     <lineNumber color="#44475a" /> <!-- grey selection -->
-    <selectionBackground color="#44475a" /> <!-- light grey -->
+    <selectionBackground color="#355975" /> <!-- selector blue -->
     <selectionForeground color="#9cb1c3" /> <!-- foreground -->
 </colorTheme>
